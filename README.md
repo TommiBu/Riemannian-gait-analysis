@@ -1,6 +1,6 @@
 # Riemannian Gait Analysis Framework
 
-**Riemannian vs. Euclidean Frameworks in Gait Kinematics: A Proof of Concept**
+**Riemannian vs. Euclidean Frameworks in Gait Kinematics**
 
 A Python computational tool for analyzing human gait dynamics using Riemannian geometry and manifold learning on Symmetric Positive Definite (SPD) matrices.
 
