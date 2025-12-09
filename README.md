@@ -30,4 +30,4 @@ Key capabilities:
 ## License
 
 * **Source Code:** Licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-You are free to use the code for your own research (including commercial), but the specific dataset and the content of the scientific paper cannot be used for commercial purposes without permission.
+* You are free to use the code for your own research (including commercial)
