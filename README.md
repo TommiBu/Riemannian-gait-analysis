@@ -21,8 +21,10 @@ Clone the repository and install the required dependencies:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/MotusMetrics/hmg.git
-# 2. Navigate to the directory (záleží, jak jsi repo pojmenoval)
+
+# 2. Navigate to the directory
 cd hmg
+
 # 3. Install dependencies
 pip install -r requirements.txt
 ```
