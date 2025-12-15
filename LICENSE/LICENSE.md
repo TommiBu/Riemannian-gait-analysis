@@ -1,21 +1,46 @@
-MIT License
+# License Agreement
 
-Copyright (c) 2025 [Thomas Boozek]
+Copyright (C) 2025 Thomas Boozek
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### ⚠️ IMPORTANT: COMMERCIAL USE & DUAL LICENSING
+This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This license allows for open-source use, modification, and distribution, provided that any derivative work is also released as open-source under the same GPLv3 license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**Proprietary/Commercial Use:**
+If you wish to use this software (or parts of it) in a proprietary, closed-source commercial product (where you do not wish to publish your source code), **you must obtain a Commercial License** from the author.
+
+For commercial licensing inquiries, please contact: Thomas Boozek.
+
+---
+
+### GNU GENERAL PUBLIC LICENSE (GPLv3)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+  software and other kinds of works.
+  
+  
