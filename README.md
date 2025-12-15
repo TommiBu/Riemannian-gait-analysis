@@ -74,12 +74,17 @@ The tool generates a comparison of variability trends. The results demonstrate t
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**.
 
-**Open Source:** You are free to use, modify, and distribute this software, provided that any derivative work is also released as open-source under the same GPLv3 license.
-**Proprietary Use:** If you wish to use this software in a **closed-source commercial product** (without disclosing your source code), you must obtain a **Commercial License**.
+You are free to use, modify, and distribute this software under the terms of this license.
 
-For commercial licensing inquiries, please contact: **Thomas Boozek** via [LinkedIn/Email].
+If this software (or a modified version of it) is used to provide functionality
+to users over a network (for example as part of a web service, API, or SaaS),
+the AGPLv3 requires that the complete corresponding source code of the running
+version be made available to those users.
 
-See the [LICENSE](LICENSE) file for the full text.
+For use in proprietary or closed-source commercial services, a separate
+commercial license may be available. Please contact the author for details.
+
+See the `LICENSE` file for the full license text.
 
