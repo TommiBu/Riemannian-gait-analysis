@@ -48,7 +48,6 @@ Run the main analysis pipeline:
 ```bash
 python main.py
 ```
-
 ## Modularity & Customization
 This tool was built with flexibility in mind. Researchers are encouraged to modify the code to fit their specific needs:
 
@@ -57,6 +56,30 @@ Change Joints: Modify the JOINTS_RIGHT list in main.py to track different body p
 Adjust Metrics: The features/ directory contains modular scripts for both Riemannian (SPD) and Euclidean metric calculations.
 
 Visualization: You can tweak UMAP parameters in features/embedder.py to explore different manifold projections.
+
+## Work in Progress: PyTorch Migration & Batch Processing
+
+Currently developed in a local branch (not yet merged).
+
+We are significantly refactoring the core computational engine to improve performance and scalability.
+
+Key Changes:
+
+PyTorch Backend: Migrating from numpy to torch to leverage tensor operations and potential GPU acceleration.
+
+Batch Processing: Replacing iterative loops with vectorized operations, processing thousands of steps simultaneously (math computation time reduced to ~0.001s per run).
+
+Riemannian Geometry: Re-implemented SPD matrix calculations (Log-Euclidean metric, Fréchet Mean) for better numerical stability and speed.
+
+Global Comparison: Added UMAP visualization to cluster different running styles (Slow/Mid/Fast) based purely on geometric features.
+
+Current Limitations & Next Steps:
+
+Hardware Bottleneck: Visualization (matplotlib) is currently resource-intensive on older hardware.
+
+Pending Verification: Finalizing validatory comparisons between old (NumPy) and new (Torch) implementations.
+
+Future Goals: Fatigue analysis (drift detection), asymmetry checks, and 3D pose integration.
 
 ## Community & Feedback
 This is an open research project.
