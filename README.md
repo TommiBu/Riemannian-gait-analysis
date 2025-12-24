@@ -63,7 +63,7 @@ Currently developed in a local branch (not yet merged).
 
 We are significantly refactoring the core computational engine to improve performance and scalability.
 
-Key Changes:
+### Key Changes:
 
 PyTorch Backend: Migrating from numpy to torch to leverage tensor operations and potential GPU acceleration.
 
@@ -73,7 +73,7 @@ Riemannian Geometry: Re-implemented SPD matrix calculations (Log-Euclidean metri
 
 Global Comparison: Added UMAP visualization to cluster different running styles (Slow/Mid/Fast) based purely on geometric features.
 
-Current Limitations & Next Steps:
+### Current Limitations & Next Steps:
 
 Hardware Bottleneck: Visualization (matplotlib) is currently resource-intensive on older hardware.
 
